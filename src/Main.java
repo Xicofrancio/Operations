@@ -5,5 +5,8 @@ public class Main {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
         System.out.println(a + b);
+        String operation = scanner.nextLine();
+        System.out.println("és gay xico");
+        
     }
 }
